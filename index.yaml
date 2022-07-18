@@ -68,6 +68,19 @@ entries:
     version: 1.0.0
   debio-background-worker:
   - apiVersion: v2
+    appVersion: 1.0.6
+    created: "2022-07-18T08:23:00.55262297Z"
+    description: A Helm chart for Kubernetes
+    digest: 39bfdbfed95fc0e99496b659a35f334813505738c179699890773d7edaa9e711
+    maintainers:
+    - email: debio.dev@blocksphere.id
+      name: debionetwork
+    name: debio-background-worker
+    type: application
+    urls:
+    - https://github.com/debionetwork/debio-charts/releases/download/debio-background-worker-1.0.6/debio-background-worker-1.0.6.tgz
+    version: 1.0.6
+  - apiVersion: v2
     appVersion: 1.0.5
     created: "2022-07-18T07:24:05.15934315Z"
     description: A Helm chart for Kubernetes
@@ -243,4 +256,4 @@ entries:
     urls:
     - https://github.com/debionetwork/debio-charts/releases/download/debio-staking-synchronizer-1.0.0/debio-staking-synchronizer-1.0.0.tgz
     version: 1.0.0
-generated: "2022-07-18T07:24:05.159384351Z"
+generated: "2022-07-18T08:23:00.552817174Z"
