@@ -10,8 +10,8 @@ The Anonymous-First Platform for Medical and Bioinformatics Data.
 <br>
 
 [![Medium](https://img.shields.io/badge/Medium-DeBio-brightgreen?logo=medium)](https://medium.com/@debionetwork.blog)
-[![Releaser](https://github.com/debionetwork/debio-charts/actions/workflows/releaser.yml/badge.svg)](https://github.com/debionetwork/debio-charts/actions/workflows/releaser.yml)
-[![Tester](https://github.com/debionetwork/debio-charts/actions/workflows/tester.yml/badge.svg)](https://github.com/debionetwork/debio-charts/actions/workflows/tester.yml)
+[![Releaser](https://github.com/debionetwork/debio-charts/actions/workflows/releaser.yaml/badge.svg)](https://github.com/debionetwork/debio-charts/actions/workflows/releaser.yaml)
+[![Tester](https://github.com/debionetwork/debio-charts/actions/workflows/tester.yaml/badge.svg)](https://github.com/debionetwork/debio-charts/actions/workflows/tester.yaml)
 
 </div>
 
@@ -31,8 +31,8 @@ DeBio Network is a decentralized anonymous-first platform for medical and bioinf
 
 ## Chart Sources
 
-* `charts/debio-node`: [DeBio Node Chart](https://github.com/debionetwork/debio-charts/tree/main/charts/debio-node)
-* `charts/debio-app-deployer`: [DeBio App Deployer Chart](https://github.com/debionetwork/debio-charts/tree/main/charts/debio-app-deployer)
+* `charts/debio-node`: [DeBio Node Chart](./charts/debio-node)
+* `charts/debio-app-deployer`: [DeBio App Deployer Chart](./charts/debio-app-deployer)
 
 ## Usage
 
