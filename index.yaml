@@ -1,5 +1,19 @@
 apiVersion: v1
 entries:
+  debio-app-deployer:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2022-09-06T15:02:38.954781101Z"
+    description: A Helm chart for Kubernetes
+    digest: 86a063d39b53d04e3878797afda86c12934208764fb5d15ddc0e3513c0fc812e
+    maintainers:
+    - email: devops@debio.network
+      name: debionetwork
+    name: debio-app-deployer
+    type: application
+    urls:
+    - https://github.com/debionetwork/debio-charts/releases/download/debio-app-deployer-0.1.0/debio-app-deployer-0.1.0.tgz
+    version: 0.1.0
   debio-backend:
   - apiVersion: v2
     appVersion: 1.0.4
@@ -308,4 +322,4 @@ entries:
     urls:
     - https://github.com/debionetwork/debio-charts/releases/download/debio-staking-synchronizer-1.0.0/debio-staking-synchronizer-1.0.0.tgz
     version: 1.0.0
-generated: "2022-09-01T12:00:52.44046305Z"
+generated: "2022-09-06T15:02:39.148899115Z"
