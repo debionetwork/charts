@@ -92,8 +92,8 @@ tolerations: []
 affinity: {}
 
 startupProbe:
-    path: ""
+  path: ""
 livenessProbe:
-    path: ""
+  path: ""
 readinessProbe:
-    path: ""
+  path: ""
